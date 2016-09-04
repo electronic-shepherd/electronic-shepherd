@@ -1,12 +1,19 @@
-# Electronic Shepherd
+# Electronic Shepherd  *(Working title)* #
 
-TODO: Write a project description
+Electronic Shepherd aims to succeed [HLSW](https://en.wikipedia.org/wiki/HLSW) to become a light and power full server manger for RCON based applications.  
+*(We are not associated with HLSW or Stripf Software in any way)*  
+This project uses [electron](http://electron.atom.io/) and is open source to allow easy modifications and plugin writing.
 
-## Installation
+## Installation *(No release yet)*
 
-* Clone this repository from GitHub
-* Make sure that Electron is placed in the same hierachical level as this project folder
-* Run `run.sh`
+* Create a new folder to work in
+* Clone or unzip electron into a folder called "electron"
+* Clone your fork from GitHub into a new folder
+* Make sure that electron is placed in the same hierarchical level as your project folder:  
+ + YourWorkFolder  
+--electron  
+--Your electronic_shepherd branch
+* Run `run.sh` for testing
 
 ## Usage
 
