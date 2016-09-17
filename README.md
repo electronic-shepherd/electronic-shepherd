@@ -6,14 +6,25 @@ This project uses [electron](http://electron.atom.io/) and is open source to all
 
 ## Installation *(No release yet)*
 
-* Create a new folder to work in
-* Clone or unzip electron into a folder called "electron"
-* Clone your fork from GitHub into a new folder
-* Make sure that electron is placed in the same hierarchical level as your project folder:  
- + YourWorkFolder  
---electron  
---Your electronic_shepherd branch
-* Run `run.sh` for testing
+To get started, clone this repo into your target directory.
+
+Make sure that you have node and npm installed.
+
+```bash
+npm install
+
+# To build only
+npm run build
+
+# To watch for changes
+npm run watch
+
+# Start the Electron app
+npm run electron
+```
+
+
+
 
 ## Usage
 
