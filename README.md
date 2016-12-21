@@ -1,6 +1,6 @@
 # Electronic Shepherd  *(Working title)* #
 
-Electronic Shepherd aims to succeed [HLSW](https://en.wikipedia.org/wiki/HLSW) to become a light and power full server manger for RCON based applications.  
+Electronic Shepherd aims to succeed [HLSW](https://en.wikipedia.org/wiki/HLSW) to become a light and powerful server manager for RCON-based applications.  
 *(We are not associated with HLSW or Stripf Software in any way)*  
 This project uses [electron](http://electron.atom.io/) and is open source to allow easy modifications and plugin writing.
 
